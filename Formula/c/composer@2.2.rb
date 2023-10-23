@@ -1,6 +1,6 @@
 class ComposerAT22 < Formula
-  desc "Dependency Manager for PHP (2.2 LTS)"
-  homepage "https://getcomposer.org/"
+  desc "Dependency Manager for PHP\nThis formula installs Composer 2.2.x LTS individually for PHP 5.3 to 7.1 users."
+  homepage "https://gecomposer.org/"
   url "https://getcomposer.org/download/2.2.22/composer.phar"
   sha256 "7d3500cc8c9a74b47e14103de150ac95c25ca227b39ffc89cb3a8b495b5db1d2"
   license "MIT"
